@@ -27,4 +27,3 @@ jQuery.ajax({
 });
 });
 </script>
-<div class = "link" style = 'position:relative;top:500px;'></div>
